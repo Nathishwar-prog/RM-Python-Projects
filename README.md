@@ -20,7 +20,7 @@ A command-line task management application to add, update, delete, and list task
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/nathishwar-prog/python-projects.git
+   git clone https://github.com/Nathishwar-prog/python-projects.git
    ```
 2. Install dependencies:
    ```sh
