@@ -1,5 +1,5 @@
 # My Python Projects
-#Author : Nathishwar
+# Author : Nathishwar
 
 ## Overview
 This repository showcases a collection of Python projects I have built, covering various domains such as automation, data science, web development, and more. Each project includes a brief description, key features, and instructions for usage.
@@ -7,7 +7,7 @@ This repository showcases a collection of Python projects I have built, covering
 ## Projects
 
 ### 1. Task Manager
-#Check it : https://roadmap.sh/projects/task-tracker
+# Check it : https://roadmap.sh/projects/task-tracker
 A command-line task management application to add, update, delete, and list tasks.
 - **Technologies:** Python, JSON
 - **Features:**
@@ -20,7 +20,7 @@ A command-line task management application to add, update, delete, and list task
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/python-projects.git
+   git clone https://github.com/nathishwar-prog/python-projects.git
    ```
 2. Install dependencies:
    ```sh
