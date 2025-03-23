@@ -64,5 +64,5 @@ The CLI supports and translates the following GitHub events:
 This project is open-source and available under the MIT License.
 
 ## Author
-Developed by Nathishwar -> 
+Developed by Nathishwar ->  https://github.com/Nathishwar-prog
 
