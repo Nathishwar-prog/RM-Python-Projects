@@ -41,6 +41,20 @@ A command-line application to fetch and display a GitHub user's recent activity 
   - Uses only built-in Python libraries (no external dependencies).
 - **Usage:** `python github_activity_cli.py <github_username>`
 
+### 4. Number Guessing Game
+# Check it : https://roadmap.sh/projects/number-guessing-game
+A command-line Number Guessing Game where the computer randomly selects a number, and the player has to guess it within a limited number of attempts based on the chosen difficulty level.
+- **Technologies:** Python, Random Module, Time Module
+- **Features:**
+  - Select difficulty level (Easy, Medium, Hard)
+  - Enter guesses and receive feedback on whether the number is higher or lower
+  - Track the time taken to guess the correct number
+  - Maintain a high score (fewest attempts to win)
+  - Option to play multiple rounds until the player decides to quit
+- **Usage:** python number_guessing_game.py
+
+
+
 
 ## Installation
 1. Clone this repository:
