@@ -1,4 +1,5 @@
 # Expense Tracker CLI Application
+# Check It : https://roadmap.sh/projects/expense-tracker
 
 ## Overview
 The **Expense Tracker CLI Application** is a simple yet powerful tool that allows users to track their daily expenses efficiently. It provides features to add, update, delete, view, summarize, and export expenses in a structured format.
@@ -20,7 +21,7 @@ The **Expense Tracker CLI Application** is a simple yet powerful tool that allow
 
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/expense-tracker.git
+git clone https://github.com/Nathishwar-prog/expense-tracker.git
 cd expense-tracker
 ```
 
