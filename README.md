@@ -28,6 +28,20 @@ A command-line Expense tracker application to add,update,delete,summary of month
   - Show the summary ( Total amount by specific month )
   - Export the data into the CSV file 
 - **Usage:** `python expense_tracker.py add "Salad" 200 "Food`
+# GitHub Activity CLI
+
+## Check it: [https://roadmap.sh/projects/github-activity-cli](https://roadmap.sh/projects/github-user-activity)
+A command-line application to fetch and display a GitHub user's recent activity using the GitHub API.
+
+- **Technologies:** Python, JSON, urllib
+- **Features:**
+  - Fetches the most recent GitHub activity for a specified user.
+  - Displays up to 5 recent events in a user-friendly format.
+  - Handles errors such as invalid usernames or API failures gracefully.
+  - Uses only built-in Python libraries (no external dependencies).
+- **Usage:** `python github_activity_cli.py <github_username>`
+
+
 ## Installation
 1. Clone this repository:
    ```sh
