@@ -20,14 +20,14 @@ A command-line task management application to add, update, delete, and list task
 ### 2.Expense Tracker
 # Check it : https://roadmap.sh/projects/expense-tracker
 A command-line Expense tracker application to add,update,delete,summary of month expenses , view expenses by category(optional)
--**Technologies:** Python ,JSON ,CSV
--**Features:**
+- **Technologies:** Python ,JSON ,CSV
+- **Features:**
   - Add expenses with description , amount and category
   - Update and delete the expenses
   - view the expenses by category like (Food,Travel.....)
   - Show the summary ( Total amount by specific month )
-  - Export the data into the CSV file .
--**Usage:** `python expense_tracker.py add "Salad" 200 "Food"
+  - Export the data into the CSV file 
+- **Usage:** `python expense_tracker.py add "Salad" 200 "Food`
 ## Installation
 1. Clone this repository:
    ```sh
